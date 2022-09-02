@@ -1,0 +1,31 @@
+User-Agent: *
+Disallow: /page16779046.html
+Disallow: /privacy-policy
+Disallow: /page16779082.html
+Disallow: /page16918448.html
+Disallow: /page16951429.html
+Disallow: /terms-of-service
+Disallow: /page15169886.html
+Disallow: /planktime-old
+Disallow: /page12862532.html
+Disallow: /antonastakhovold
+Disallow: /page12339054.html
+Disallow: /cv-black
+Disallow: /page12337493.html
+Disallow: /cv
+Disallow: /page12302801.html
+Disallow: /antonastakhov2
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://home-fitness.tilda.ws/sitemap.xml
+Host: https://home-fitness.tilda.ws
